@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sabinamunoz
-- 👀 I’m interested in AI
+- 👀 I’m interested in Sporta
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me LinkedIn
