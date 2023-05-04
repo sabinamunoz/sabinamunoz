@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on .
-- 📫 How to reach me linkedIn
+- 📫 How to reach me LinkedIn
 
 <!---
 sabinamunoz/sabinamunoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
