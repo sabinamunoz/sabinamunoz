@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sabinamunoz
 - 👀 I’m interested in Sports
 - 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on .
+- 💞️ I’m looking to collaborate on IronHack Labs
 - 📫 How to reach me LinkedIn
 
 <!---
